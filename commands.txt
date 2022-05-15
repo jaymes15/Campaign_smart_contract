@@ -1,0 +1,1 @@
+- npm install ganache-cli solc@0.4.17 fs-extra web3
